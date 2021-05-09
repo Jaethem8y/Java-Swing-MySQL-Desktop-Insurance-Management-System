@@ -6,4 +6,4 @@ Java Swing and mysql application to simulate the admin program for Insurance Com
 ## The working video is at
 - Please watch the video on 2x speed. 
 
--https://www.youtube.com/watch?v=6qFeMwFXB_E
+- https://www.youtube.com/watch?v=6qFeMwFXB_E
