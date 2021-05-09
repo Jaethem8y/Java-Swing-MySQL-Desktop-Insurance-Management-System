@@ -4,4 +4,6 @@ Java Swing and mysql application to simulate the admin program for Insurance Com
 ## Source Code for My Personal Projects
 - following page has the source code.
 ## The working video is at
-https://www.youtube.com/watch?v=6qFeMwFXB_E
+- Please watch the video on 2x speed. 
+
+-https://www.youtube.com/watch?v=6qFeMwFXB_E
